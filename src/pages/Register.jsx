@@ -106,7 +106,7 @@ function Register() {
                 label="Company name"
                 variant="outlined"
                 name="company"
-                value={input.name}
+                value={input.company}
                 onChange={(e)=>{
                   setInput({
                     ...input,
