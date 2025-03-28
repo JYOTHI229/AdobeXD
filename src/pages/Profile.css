@@ -1,0 +1,29 @@
+
+
+
+.profile{
+    height: 110vh; 
+    background-color: rgb(246, 255, 253);
+    border: 2px solid rgb(168, 165, 165);
+    text-align: left;
+    width: 400px;
+}
+
+.biosection{
+    padding: 10px;
+    border-bottom: 2px dashed rgb(168, 165, 165);
+    
+}
+
+.header{
+    margin:2 ;
+    padding: 1.5rem;
+    border-bottom:2px solid  rgb(209, 201, 201);
+    background-color: white;
+}
+
+@media (max-width: 100px) {
+    body {
+      padding: 10px;
+    }
+  }
